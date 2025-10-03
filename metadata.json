@@ -1,0 +1,5 @@
+{
+  "name": "React Interactive Quiz",
+  "description": "An interactive quiz application built with React and Tailwind CSS to test comprehension of a given text. It provides instant feedback, explanations, and a final score with an encouraging message.",
+  "requestFramePermissions": []
+}
